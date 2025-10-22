@@ -4,7 +4,7 @@ Instala e Desinstala o NVM e Node com mais facilidade no Linux Debian/Ubuntu.
 
 ## Information
 
-- [Page MiNJSInstall](https://www.mugomes.com.br/2025/07/minjsinstall.html)
+- [Page MiNJSInstall](https://github.com/mugomes/minjsinstall)
 
 ## License
 
