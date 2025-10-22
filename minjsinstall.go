@@ -18,7 +18,7 @@ func main() {
 
 	for {
 		fmt.Println()
-		fmt.Println("MinJSInstall")
+		fmt.Println("MiNJSInstall")
 		fmt.Println("Version: 2.0.0")
 		fmt.Println()
 		fmt.Println("Copyright (C) 2025 Murilo Gomes Julio")
