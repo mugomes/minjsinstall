@@ -1,5 +1,8 @@
 # MiNJSInstall
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/minjsinstall
+
 Instala e Desinstala o NVM e Node com mais facilidade no Linux Debian/Ubuntu.
 
 ## Information
